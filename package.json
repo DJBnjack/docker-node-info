@@ -1,0 +1,22 @@
+{
+  "name": "docker-node-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJBnjack/docker-node-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJBnjack/docker-node-info/issues"
+  },
+  "homepage": "https://github.com/DJBnjack/docker-node-info#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
